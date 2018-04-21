@@ -1,5 +1,5 @@
-LinearLayout 線性佈局
-===
+# 從零開始學 kotlin 程式設計
+
 ![](https://i.imgur.com/wbyhsUH.jpg)
 
 ▶ Udemy 頻道：http://bit.ly/2HAmyCS
